@@ -1,1 +1,3 @@
-The paddle may move horizontally and is controlled with the BlackBerry's trackwheel, the computer's mouse or the touch of a finger (in the case of touchscreen). The player gets three lives to start with; a life is lost if the ball hits the bottom of the screen. W
+The paddle may move horizontally and is controlled with the BlackBerry's trackwheel, the computer's mouse or the touch of a finger (in the case of touchscreen).
+ The player gets three lives to start with; 
+ a life is lost if the ball hits the bottom of the screen. 
